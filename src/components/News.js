@@ -8,7 +8,7 @@ export class News extends Component {
         <h2>Top Headlines</h2>
        <div className="row">
                   <div className="col-md-4">
-                  <NewsItem  title="mytitlr" description ="mydescription"/>
+                  <NewsItem  title="mytitlr" description ="mydescription" imgUrl="https://www.shutterstock.com/search/breaking-news-colour"/>
                       <NewsItem  title="mytitlr" description ="mydescription"/>
                   <div className="col-md-4">
                   <NewsItem  title="mytitlr" description ="mydescription"/>
