@@ -17,14 +17,14 @@ export class NavBar extends Component {
             <li className="nav-item">
               <a className="nav-link " aria-current="page" href="/">Home</a>
             </li>
-            <li className='nav-item'><a className='nav-link' href='/'>About</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>Business</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>Entertainment</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>general</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>health</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>science</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>sport</a></li>
-            <li className='nav-item'><a className='nav-link' href='/'>technology</a></li>
+            <li className='nav-item'><a className='nav-link' href='/About'>About</a></li>
+            <li className='nav-item'><a className='nav-link' href='/Business'>Business</a></li>
+            <li className='nav-item'><a className='nav-link' href='/Entertainment'>Entertainment</a></li>
+            <li className='nav-item'><a className='nav-link' href='/general'>general</a></li>
+            <li className='nav-item'><a className='nav-link' href='/health'>health</a></li>
+            <li className='nav-item'><a className='nav-link' href='/science'>science</a></li>
+            <li className='nav-item'><a className='nav-link' href='/sport'>sport</a></li>
+            <li className='nav-item'><a className='nav-link' href='/technology'>technology</a></li>
         
 
 

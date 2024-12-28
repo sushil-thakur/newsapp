@@ -40,7 +40,7 @@ export class News extends Component {
 
   
     let url = `https://newsapi.org/v2/top-headlines?country=${this.state.country}&category=business&category=${this.state.categoty}&apiKey=
-    // 0f895488251f4fffa70a558d272114bf&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+  0f895488251f4fffa70a558d272114bf&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
     let data =  await fetch(url);
     let parsedData = await data.json();
  
